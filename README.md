@@ -22,8 +22,9 @@ Some of the resources I've found helpful
 * The Linux Basics Course: Beginner to Sysadmin, Step by Step | tutoriaLinux - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 ## Python
+* LinkedIn Learning - Become a Software Dev - https://www.linkedin.com/learning/paths/become-a-software-developer
 * Python for Beginners | The Cyber Mentor - https://www.youtube.com/watch?v=7utwZYKweho
-* Learn Python | freeCodeCamp.org https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL
+* Learn Python | freeCodeCamp.org - https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL
 * Automate the Boring Stuff | Al Sweigart - https://automatetheboringstuff.com/2e/chapter0/
 
 ## Pentesting
@@ -37,6 +38,7 @@ Some of the resources I've found helpful
 * Getting Started in Packet Decoding | Chris Brenton - https://www.antisyphontraining.com/getting-started-in-packet-decoding-w-chris-brenton/
 * Pcap files available for analysis - https://www.netresec.com/?page=PcapFiles
 * Threat Hunting | Chris Brenton - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
+* SOC Core Skills | John Strand - https://www.antisyphontraining.com/soc-core-skills-w-john-strand/
 
 ## CTF, Labs and Tools
 * Upcoming CTF Events - https://ctftime.org/event/list/upcoming
