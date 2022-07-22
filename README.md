@@ -27,3 +27,4 @@ Some of the resources I've found helpful
 
 ## Blue Teaming
 * Getting Started in Packet Decoding | Chris Brenton - https://www.antisyphontraining.com/getting-started-in-packet-decoding-w-chris-brenton/
+** https://www.activecountermeasures.com/category/malware-of-the-day/
