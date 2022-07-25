@@ -14,12 +14,13 @@ Some of the resources I've found helpful
 * Starting an InfoSec Career | Lesley Carhart - https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/
 * How to build a Cybersecurity Career | Daniel Miessler - https://danielmiessler.com/blog/build-successful-infosec-career/
 * Cybersecurity Domain Map | Henry Jiang - https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang
-* Security Cert Roadmap | Paul Jermiy - https://pauljerimy.com/security-certification-roadmap/
+* Security Cert Roadmap | Paul Jerimy - https://pauljerimy.com/security-certification-roadmap/
 * Risky Business Podcast | Patrick Gray & Adam Boileau - https://risky.biz/
 
 ## Linux
 * Linux for Ethical Hackers | The Cyber Mentor - https://www.youtube.com/watch?v=U1w4T03B30I
 * The Linux Basics Course: Beginner to Sysadmin, Step by Step | tutoriaLinux - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+* 2x Linux Command Line Books (free) | William Shotts - https://linuxcommand.org/tlcl.php
 
 ## Python
 * LinkedIn Learning - Become a Software Dev - https://www.linkedin.com/learning/paths/become-a-software-developer
