@@ -16,6 +16,7 @@ Some of the resources I've found helpful
 * Cybersecurity Domain Map | Henry Jiang - https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang
 * Security Cert Roadmap | Paul Jerimy - https://pauljerimy.com/security-certification-roadmap/
 * Risky Business Podcast | Patrick Gray & Adam Boileau - https://risky.biz/
+* Darknet Diaries Podcast | Jack Rhysider - https://darknetdiaries.com/
 
 ## Linux
 * Linux for Ethical Hackers | The Cyber Mentor - https://www.youtube.com/watch?v=U1w4T03B30I
