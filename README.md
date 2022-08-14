@@ -32,11 +32,15 @@ Some of the resources I've found helpful
 ## Pentesting
 * Ethical Hacking in 12 Hours | The Cyber Mentor - https://www.youtube.com/watch?v=fNzpcB7ODxQ
 * Penetration Testing Student | INE - https://my.ine.com/path/a223968e-3a74-45ed-884d-2d16760b8bbd
+* Penetration Testing Student v2 | INE - https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student-v2
 * Penetration Testing Professional | INE - https://my.ine.com/CyberSecurity/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/penetration-testing-professional
 * Buffer Overflows Made Easy | The Cyber Mentor - https://www.youtube.com/watch?v=ncBblM920jw
 
+## Windows
+* Free Training | Microsoft - https://docs.microsoft.com/en-us/learn/browse/?roles=security-operations-analyst
+* Free Developer Account | Microsoft - https://developer.microsoft.com/en-us/microsoft-365/dev-program
+
 ## Blue Teaming
-* Microsoft Free Training - https://docs.microsoft.com/en-us/learn/browse/?roles=security-operations-analyst
 * Getting Started in Packet Decoding | Chris Brenton - https://www.antisyphontraining.com/getting-started-in-packet-decoding-w-chris-brenton/
 * Pcap files available for analysis - https://www.netresec.com/?page=PcapFiles
 * Threat Hunting | Chris Brenton - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
