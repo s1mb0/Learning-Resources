@@ -45,6 +45,9 @@ Some of the resources I've found helpful
 * Pcap files available for analysis - https://www.netresec.com/?page=PcapFiles
 * Threat Hunting | Chris Brenton - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
 * SOC Core Skills | John Strand - https://www.antisyphontraining.com/soc-core-skills-w-john-strand/
+* Getting Started in Security with BHIS and Mitre ATT&CK | John Strand - https://www.antisyphontraining.com/getting-started-in-security-with-bhis-and-mitre-attck-w-john-strand/
+* Active Defense & Cyber Deception | John Strand - https://www.antisyphontraining.com/active-defense-cyber-deception-w-john-strand/
+* Blue Team Level 1 | BTL - https://elearning.securityblue.team/home
 
 ## CTF, Labs and Tools
 * Upcoming CTF Events - https://ctftime.org/event/list/upcoming
@@ -54,3 +57,5 @@ Some of the resources I've found helpful
 * TryHackMe - https://tryhackme.com/
 * Hack The Box - https://www.hackthebox.com/
 * Blue Team Labs Online - https://blueteamlabs.online/
+* Lets Defend - https://letsdefend.io/
+* Cyber Defenders - https://cyberdefenders.org/blueteam-ctf-challenges/
